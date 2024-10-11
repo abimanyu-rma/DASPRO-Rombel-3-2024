@@ -5,6 +5,5 @@ while (counter < 4) {
     counter += 1;
 }
 //c++ tercetak 4 karena counter akan bertambah satu setiap iterasi loop,
-sementara kondisi while (counter < 4) masih dipenuhi.
-Karena nilai awal counter adalah 0, maka loop akan berlangsung sebanyak empat kali.//
-
+//sementara kondisi while (counter < 4) masih dipenuhi.
+//Karena nilai awal counter adalah 0, maka loop akan berlangsung sebanyak empat kali.//
