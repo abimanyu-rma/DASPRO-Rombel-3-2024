@@ -1,6 +1,4 @@
-//Soal
-Pak Dengklek memiliki sebuah kandang bebek seluas 
-12
+/*Pak Dengklek memiliki sebuah kandang bebek seluas
 12 meter persegi.
 
 Setiap bulannya, Pak Dengklek ingin membeli sebuah kandang baru. Karena bebek-bebeknya terus berkembang biak, Pak Dengklek ingin agar setiap kandang baru yang dibeli berukuran 
@@ -9,8 +7,8 @@ Buatlah program yang mengeluarkan ukuran luas kandang-kandang (dalam meter perse
 1: luas kandang untuk bulan 1
 2: luas kandang untuk bulan 2
 3: luas kandang untuk bulan 3
-Lengkapilah program di sebelah kanan. Pastikan Anda melengkapi kondisi perulangan while dengan tepat.
-// jawaban 
+Lengkapilah program di sebelah kanan. Pastikan Anda melengkapi kondisi perulangan while dengan tepat.*/
+ 
 #include <iostream>
 using namespace std;
 
