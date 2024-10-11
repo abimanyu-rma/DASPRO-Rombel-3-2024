@@ -11,7 +11,6 @@ Lengkapilah program di sebelah kanan. Pastikan Anda melengkapi kondisi perulanga
  
 #include <iostream>
 using namespace std;
-
 int main() {
     // Inisialisasi variabel luas kandang awal
     int luas_kandang =  12; // Luas awal kandang dalam meter persegi
